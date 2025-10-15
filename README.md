@@ -26,7 +26,7 @@
 
 ## 1. Executive Summary
 
-This business development report outlines a targeted go-to-market strategy for **FanBase’s Quest Widget** — a no-code, gamified engagement tool that enables esports teams to capture **first-party fan data**, increase sponsorship value, and monetize their fan base more effectively.
+This business development report outlines a targeted go-to-market strategy for **FanBase’s Quest Widget** - a no-code, gamified engagement tool that enables esports teams to capture **first-party fan data**, increase sponsorship value, and monetize their fan base more effectively.
 
 The report is structured into three main components:
 
@@ -72,7 +72,7 @@ The following five esports teams were selected based on key qualification criter
 
 Hi Álvaro,  
 
-I’ve been following Team Queso’s rise across mobile esports and love how you’ve built one of the most passionate Spanish-speaking fan communities. With FanBase’s Quest Widget, you could reward fans for joining Discord, following new rosters, or purchasing merch — while automatically capturing verified data that sponsors love.  
+I’ve been following Team Queso’s rise across mobile esports and love how you’ve built one of the most passionate Spanish-speaking fan communities. With FanBase’s Quest Widget, you could reward fans for joining Discord, following new rosters, or purchasing merch - while automatically capturing verified data that sponsors love.  
 
 Would you be open to a 20-minute walkthrough to explore a custom TQ-branded quest campaign?  
 
@@ -86,7 +86,7 @@ Alan Akandzhi
 
 Hi Adam,  
 
-Oxygen Esports has built a strong regional presence, and your Shopify merch store shows a committed fanbase. FanBase helps teams turn fan interactions into first-party data — rewarding them for predictions, watch-time, and more.  
+Oxygen Esports has built a strong regional presence, and your Shopify merch store shows a committed fanbase. FanBase helps teams turn fan interactions into first-party data - rewarding them for predictions, watch-time, and more.  
 
 Could we schedule a short demo to show how quests might boost your next merch launch or event campaign?  
 
