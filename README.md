@@ -1,4 +1,4 @@
-# FanBase BD Challenge – Alan Akandzhi
+# FanBase BD Challenge
 
 **Prepared by:** Alan Akandzhi  
 **Role:** Junior Business Development Associate  
